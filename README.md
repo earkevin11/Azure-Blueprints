@@ -20,4 +20,4 @@
 - 4. ARM templates - if there are resources that need to be deployed
 
 # Working with Azure Blueprints
-- Define the Blueprint, create some artificats, publish the blueprint, and then assign the blueprint at a management group level to one subscription.
+- Define the Blueprint, create some artifacts, publish the blueprint, and then assign the blueprint at a management group level to one subscription.

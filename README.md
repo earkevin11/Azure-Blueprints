@@ -23,7 +23,7 @@
 - Define the Blueprint, create some artifacts, publish the blueprint, and then assign the blueprint at a management group level to one subscription.
 
 
-# Define a Blueprint and assign the Blueprint to Azure subscription 
+# Define a Blueprint and link it to the scope of the Azure subscription
 
 <p align="center">
   
@@ -47,3 +47,30 @@
 <p/>
 - Artifact - Role Assignment
 - Artifact - Resource group
+
+
+# Assign the Blueprint
+- This will ensure that resources within Azure subscription 1 has
+- 1. Contributor role - appuserA
+- 2. resourcegroupA in the subscription
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175796611-85b4d60f-89ee-475d-afbe-e877423d3a8e.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+# Check to see if the Blueprints created resourcegrpA
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175796804-26f62f65-08c8-4151-ac23-63c1c48b64b4.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>
+
+
+# Check to see if then Blueprints created appuserA 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175796813-361d6302-c557-4a5e-8a82-e533a6207d26.png" height="75%" width="75%" alt="Azure LAW"/>
+
+<p/>

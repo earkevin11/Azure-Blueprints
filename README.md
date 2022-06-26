@@ -71,6 +71,6 @@
 # Check to see if then Blueprints created appuserA 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/175796813-361d6302-c557-4a5e-8a82-e533a6207d26.png" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/175796847-7643fd0a-0f40-4b2f-8201-26a9ce9c9c55.png" height="75%" width="75%" alt="Azure LAW"/>
 
 <p/>

@@ -23,7 +23,7 @@
 - Define the Blueprint, create some artifacts, publish the blueprint, and then assign the blueprint at a management group level to one subscription.
 
 
-# Create a Blueprint and assign the Blueprint to Azure subscription 
+# Define a Blueprint and assign the Blueprint to Azure subscription 
 
 <p align="center">
   
@@ -38,3 +38,12 @@
 
 <p/>
 
+
+# Publish the Blueprint
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/175796430-d7a7af13-438c-4ddf-8280-60194596d7b9.png" height="165%" width="165%" alt="Azure LAW"/>
+
+<p/>
+- Artifact - Role Assignment
+- Artifact - Resource group

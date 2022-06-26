@@ -34,7 +34,7 @@
 # Create a an artifact within the Blueprint - Role Assignment
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/175796391-11eed999-3c21-467e-8d1b-feff51e0b8c5.png" height="75%" width="75%" alt="Azure LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/175796391-11eed999-3c21-467e-8d1b-feff51e0b8c5.png" height="165%" width="165%" alt="Azure LAW"/>
 
 <p/>
 

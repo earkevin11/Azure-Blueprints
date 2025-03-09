@@ -5,7 +5,7 @@
 
 
 # How to use Blueprints?
-- Blueprints will bbe used to automate using IaaS to deploy resources 
+- Blueprints will be used to automate using IaaS to deploy resources 
 - First admins must define a blueprint and then assign it to a management group or a subscription
 - Only can be assigned to management group or a subscription. NOT A resource group
 
